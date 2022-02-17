@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Members.Users</OriginalElement>
+  <nodes>
+    <node x="63.5" y="570.0">Members.Doctor</node>
+    <node x="0.0" y="0.0">Members.Users</node>
+    <node x="30.0" y="833.0">Administrators.Appointments</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Members.Doctor" target="Members.Users" relationship="GENERALIZATION">
+      <point x="0.0" y="-106.5" />
+      <point x="0.0" y="260.0" />
+    </edge>
+    <edge source="Administrators.Appointments" target="Members.Doctor" relationship="GENERALIZATION">
+      <point x="0.0" y="-150.0" />
+      <point x="0.0" y="106.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6999999999999998" showDependencies="false" x="409.2857142857144" y="444.857142857143" />
+  <SelectedNodes>
+    <node>Administrators.Appointments</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
