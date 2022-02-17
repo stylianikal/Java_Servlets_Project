@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Styliani\Documents\JAVA\demo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/dataSources/09d737ba-26e8-4ab3-abd8-8d795fdaf4de/storage_v2/_src_/database/xshospital.NeIRCw/schema/information_schema.FNRwLQ.meta
+/dataSources/09d737ba-26e8-4ab3-abd8-8d795fdaf4de/storage_v2/_src_/database/xshospital.NeIRCw/schema/pg_catalog.0S1ZNQ.meta
